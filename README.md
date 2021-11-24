@@ -32,10 +32,11 @@ Dela upp struktur, innehåll, design och logik. Använd externa filer för CSS o
 Skapa ett privat repo på GitHub och koppla det till din lokala utvecklingsmiljö (Visual Studio Code).
 Under projektet - senast 1 decemeber bjuder du in dina lärare. Se Settings -> Manage access -> Add people
 
-Lägg till 
-andsju (Anders)
-martin-glimakra (Martin)
+Lägg till
 
+andsju (Anders)
+
+martin-glimakra (Martin)
 
 ***
 
