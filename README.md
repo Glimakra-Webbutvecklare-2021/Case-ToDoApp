@@ -1,7 +1,7 @@
 # ToDoApp
 Case modul 3 - JavaScript
 
-##* Case modul 3 - To Do applikation
+### Case modul 3 - To Do applikation
 Du ska skapa en applikation som dynamiskt kan hantera en lista. Listan ska utformas som en To do applikation - en Att-göra lista.
 
 Här är ett exempel:
