@@ -11,9 +11,17 @@ Att göra
 - Gå på promenad
 - Vattna blommorna
 
-***
-
 Struktur och innehåll ska baseras på elementen ul och li. Den som använder applikationen ska förstå hur man gör för att använda listan. Det kan ske med ikoner, knappar, information etc - ett designat gränssnitt. 
+
+### Starta ditt arbete
+Skapa ett privat repo på GitHub och koppla det till din lokala utvecklingsmiljö (Visual Studio Code).
+Under projektet - senast 1 decemeber bjuder du in dina lärare. Se Settings -> Manage access -> Add people
+
+Lägg till 
+andsju (Anders)
+
+
+***
 
 ### Grundläggande krav
 En användare ska kunna
@@ -26,6 +34,8 @@ Listan ska kunna fungera för en skärm.
 
 Utvecklingen av applikationen ska finnas dokumenterad på GitHub. Du ska ha gjort minst 10 commits under projektet.
 
+***
+
 ### Utmaningar
 En användare ska kunna
 - redigera en aktivitet 
@@ -36,13 +46,6 @@ Information som kommer från formulär ska valideras med JavaScript.
 Listan ska kunna fungera för mobil och skärm.
 
 ***
-
-### Starta ditt arbete
-Skapa ett privat repo på GitHub och koppla det till din lokala utvecklingsmiljö (Visual Studio Code).
-Under projektet - senast 1 decemeber bjuder du in dina lärare. Se Settings -> Manage access -> Add people
-
-Lägg till 
-andsju (Anders)
 
 
 ### Inlämning och redovisning
