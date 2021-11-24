@@ -67,5 +67,11 @@ Listan ska kunna fungera för mobil och skärm.
 
 ### Inlämning och redovisning
 Redovisning av caset är den 8 december. 
+
 Vi vill den här gången att alla får ta del av varandras redovisning. Det innebär att ni behöver förbereda er på att redovisningen är kort - ca 5 minuter per person. Då visar ni (demonstrerar) er applikation genom att dela skärm.
 Vi ränkar med att halva klassen redovisar med start kl 10:50, och de andra med start kl 13.
+
+### Handledning
+Det kommer givetvis finnas möjlighet till handledning fram tills den 8 december. I första hand är det under vanlig lektionstid.
+
+Lycka till!
