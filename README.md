@@ -26,6 +26,8 @@ Ett tips är att du använder ett tillägg som Beautify eller liknande - då kom
 
 Applikationen får inte använda externa ramverk, utan det är *vanilla* JavaScript och CSS som gäller.
 
+Dela upp struktur, innehåll, design och logik. Använd externa filer för CSS och JavaScript.
+
 ### Starta ditt arbete
 Skapa ett privat repo på GitHub och koppla det till din lokala utvecklingsmiljö (Visual Studio Code).
 Under projektet - senast 1 decemeber bjuder du in dina lärare. Se Settings -> Manage access -> Add people
