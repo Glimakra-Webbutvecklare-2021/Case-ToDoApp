@@ -37,6 +37,8 @@ Utvecklingen av applikationen ska finnas dokumenterad på GitHub. Du ska ha gjor
 ***
 
 ### Utmaningar
+Förutom att applikationen uppfyller de grundläggande kraven. Här finns följande utmaningar. Anta en eller flera!
+
 En användare ska kunna
 - redigera en aktivitet 
 - lägga till en aktivitet med en kompletterande bild
@@ -46,7 +48,6 @@ Information som kommer från formulär ska valideras med JavaScript.
 Listan ska kunna fungera för mobil och skärm.
 
 ***
-
 
 ### Inlämning och redovisning
 Redovisning av caset är den 8 december. 
