@@ -6,10 +6,12 @@ Du ska skapa en applikation som dynamiskt kan hantera en lista. Listan ska utfor
 
 Här är ett exempel:
 
+```text
 Att göra
 - Handla mat
 - Gå på promenad
 - Vattna blommorna
+```
 
 Struktur och innehåll ska baseras på elementen ul och li. Den som använder applikationen ska förstå hur man gör för att använda listan. Det kan ske med ikoner, knappar, information etc - ett designat gränssnitt. 
 
