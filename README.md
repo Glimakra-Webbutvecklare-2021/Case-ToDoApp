@@ -74,6 +74,17 @@ Redovisning av caset är den 8 december.
 Vi vill den här gången att alla får ta del av varandras redovisning. Det innebär att ni behöver förbereda er på att redovisningen är kort - ca 5 minuter per person. Då visar ni (demonstrerar) er applikation genom att dela skärm.
 Vi ränkar med att halva klassen redovisar med start kl 10:50, och de andra med start kl 13.
 
+*Förbered 5 minuters redovisning enligt följande mall:*
+
+#### I reovisningen ska du:
+- demonstrera applikationen
+- - visa hur man lägger till, markerar och tar bort en aktivitet
+- - visa exempel på annan funktionalitet (ex ngn av utmaningarna)
+- berätta vad du är mest nöjd med (design, kod, struktur...)
+- berätta vad du skulle vilja att applikationen kan göra, men inte hunnit att koda
+
+Redovisningen sker i bokstavordning (förnamn)
+
 ### Handledning
 Det kommer givetvis finnas möjlighet till handledning fram tills den 8 december. I första hand är det under vanlig lektionstid.
 
