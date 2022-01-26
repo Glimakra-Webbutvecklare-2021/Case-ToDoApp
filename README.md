@@ -1,4 +1,4 @@
-# ToDoApp
+# Case ToDoApp
 Case modul 3 - JavaScript
 
 ### Case modul 3 - To Do applikation
